@@ -6,4 +6,3 @@ In this project, we have
 ✅ Deployed and tested the AI chatbot application
 
 ![Screen Shot 2025-04-28 at 10 05 13 PM](https://github.com/user-attachments/assets/ab2fee58-2e3b-4233-88ce-5e45c766c1ba)
-![Screen Shot 2025-04-28 at 10 05 13 PM](https://github.com/user-attachments/assets/956560aa-31f9-4b1b-9591-99a7a9253416)
