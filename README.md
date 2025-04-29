@@ -1,12 +1,9 @@
-# React + Vite
+In this project, we have 
+✅ Set up a Spring Boot backend with REST APIs
+✅ Integrated OpenAI’s ChatGPT API for AI-driven conversations
+✅ Built a dynamic React JS frontend for user interaction
+✅ Handled API requests and responses between frontend and backend
+✅ Deployed and tested the AI chatbot application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Screen Shot 2025-04-28 at 10 05 13 PM](https://github.com/user-attachments/assets/ab2fee58-2e3b-4233-88ce-5e45c766c1ba)
+![Screen Shot 2025-04-28 at 10 05 13 PM](https://github.com/user-attachments/assets/956560aa-31f9-4b1b-9591-99a7a9253416)
